@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fairuz Sheva</h1>
+<h1 align="center">Hi, I'm Fairuz Sheva</h1>
 <h3 align="center">A passionate Computer Science and Fullstack-Developer</h3>
 
 - 🔭 I’m currently working on [Kegiatin](https://github.com/ikhsan3adi/kegiatin)
