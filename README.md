@@ -1,15 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Fairuz%20Sheva&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=computer%20engineering%20student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=pairus-portofolio">
-    <img src="https://komarev.com/ghpvc/?username=pairus-portofolio&label=Profile%20views&color=00FFFF&style=flat-square" alt="pairus-portofolio's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=Saintfai">
+    <img src="https://komarev.com/ghpvc/?username=Saintfai&label=Profile%20views&color=00FFFF&style=flat-square" alt="Saintfai's profile views" />
   </a>
 </p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/pairus-portofolio">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pairus-portofolio&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="pairus-portofolio's GitHub Stats" />
+  <a href="https://github.com/Saintfai">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saintfai&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Saintfai's GitHub Stats" />
   </a>
 </p>
 
@@ -57,8 +57,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pairus-portofolio">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pairus-portofolio&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/Saintfai">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saintfai&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
